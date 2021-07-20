@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaarrsshhiill
-- 👀 I’m interested in making interisting projects.
+- 👀 I’m interested in making cool projects.
 - 🌱 I’m currently learning coding
 
 
